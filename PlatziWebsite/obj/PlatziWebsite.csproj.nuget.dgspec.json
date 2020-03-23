@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marco Jimenez\\Documents\\Curso_Net_Core\\Web App\\PlatziWebsite\\PlatziWebsite.csproj": {}
+    "C:\\Users\\Marco Jimenez\\Documents\\Curso_Net_Core\\Web App\\SitioWebPlatzi\\PlatziWebsite\\PlatziWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marco Jimenez\\Documents\\Curso_Net_Core\\Web App\\PlatziWebsite\\PlatziWebsite.csproj": {
+    "C:\\Users\\Marco Jimenez\\Documents\\Curso_Net_Core\\Web App\\SitioWebPlatzi\\PlatziWebsite\\PlatziWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marco Jimenez\\Documents\\Curso_Net_Core\\Web App\\PlatziWebsite\\PlatziWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\Marco Jimenez\\Documents\\Curso_Net_Core\\Web App\\SitioWebPlatzi\\PlatziWebsite\\PlatziWebsite.csproj",
         "projectName": "PlatziWebsite",
-        "projectPath": "C:\\Users\\Marco Jimenez\\Documents\\Curso_Net_Core\\Web App\\PlatziWebsite\\PlatziWebsite.csproj",
+        "projectPath": "C:\\Users\\Marco Jimenez\\Documents\\Curso_Net_Core\\Web App\\SitioWebPlatzi\\PlatziWebsite\\PlatziWebsite.csproj",
         "packagesPath": "C:\\Users\\Marco Jimenez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marco Jimenez\\Documents\\Curso_Net_Core\\Web App\\PlatziWebsite\\obj\\",
+        "outputPath": "C:\\Users\\Marco Jimenez\\Documents\\Curso_Net_Core\\Web App\\SitioWebPlatzi\\PlatziWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
